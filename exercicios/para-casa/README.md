@@ -6,7 +6,7 @@
 
 Passo a Passo:
 
-- [ ] *Escolha* um dos seguintes links para escrever um pequeno texto (Não precisa fazer uma redação, mas peço pelo menos uns dois ou três paragrafinhos)
+- [x] *Escolha* um dos seguintes links para escrever um pequeno texto (Não precisa fazer uma redação, mas peço pelo menos uns dois ou três paragrafinhos)
 
 > [Commit semântico](https://blog.geekhunter.com.br/o-que-e-commit-e-como-usar-commits-semanticos/)
 
