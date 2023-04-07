@@ -1,6 +1,6 @@
 # Exercício de Casa 🏠 
 
-## Nome do Exercicio
+## Conceitos básicos, Git, Github e versionamento de código
 
 - Vamos criar um arquivo **README.md** para falar sobre a aula de hoje e fazer um *pequeno* resumo de um texto da sua escolha (dentre os textos da coletânea criada)
 
